@@ -8,7 +8,3 @@ int? firstRepeatedNumber(List<int> arr) {
   }
   return null;
 }
-
-void main() {
-  print(firstRepeatedNumber([1, 2, 3, 4, 5, 1, 2, 3])); // Ausgabe: 1
-}
